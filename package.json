@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^2.6.0",
+    "colog": "^1.0.4",
+    "commander": "^6.2.0",
+    "xlsx": "^0.16.9"
+  }
+}
